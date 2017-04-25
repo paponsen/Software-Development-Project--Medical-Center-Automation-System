@@ -6,7 +6,7 @@
                               Department of Computer Science and Engineering,
                               Khulna University of Engineering & Technology
 
-Developed by- Tanmoy Ghosh & Priyabrota Sen
+Developed by- Priyabrota Sen & Tanmoy Ghosh 
 
 
 Using this application we can digitalize our medical system. 
